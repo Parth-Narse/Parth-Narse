@@ -23,15 +23,3 @@ NumPy / Pandas
 Flutter
 REST APIs
 
-What I’m building
-ML-based classification systems (like Breed Sense)
-Data-driven applications
-Small-scale backend systems
-Approach
-Focus on accuracy and reliability over just output
-Prefer simple, efficient models before complex ones
-Build systems that can be tested and improved over time
-What I’m working towards
-Improving model performance with better data
-Exploring deep learning approaches
-Building more complete, production-ready systems
