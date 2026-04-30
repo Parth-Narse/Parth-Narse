@@ -7,7 +7,9 @@ I focus on machine learning systems and software that can be applied in practica
 **Languages:-**
 
 -Python
+
 -JavaScript
+
 -C++
 
 **Core Areas:-**
