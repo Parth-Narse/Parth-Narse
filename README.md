@@ -12,7 +12,7 @@ I focus on machine learning systems and software that can be applied in practica
 
 -Backend Development
 
-## Skills
+## Tech Stack 
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
