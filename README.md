@@ -6,11 +6,11 @@ I focus on machine learning systems and software that can be applied in practica
 
 **Languages:-**
 
--Python
+*Python
 
--JavaScript
+*JavaScript
 
--C++
+*C++
 
 **Core Areas:-**
 
