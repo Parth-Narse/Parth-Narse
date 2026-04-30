@@ -6,7 +6,7 @@ I focus on machine learning systems and software that can be applied in practica
 
 **Languages:-**
 
-**-Python**
+-Python
 
 -JavaScript
 
@@ -29,5 +29,7 @@ I focus on machine learning systems and software that can be applied in practica
 -Flutter
 
 -REST APIs
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/parthnarse)
 
 
