@@ -1,27 +1,28 @@
 ## Hi there 👋
-About
+About:-
 
-I build and experiment with machine learning systems and software that solve practical problems. My work focuses on applying models to real-world use cases rather than just theory.
+I try to build projects that are actually useful. Sometimes that means solving real problems, other times it’s just building something interesting to explore an idea.
+I focus on machine learning systems and software that can be applied in practical scenarios rather than just theory. The goal is to make things that work, improve over time, and can be useful beyond a single assignment.
 
-What I work with
-
-Languages:
+Languages:-
 
 Python
 JavaScript
+C++
 
-Core Areas:
+Core Areas:-
 
 Machine Learning
 Data Processing
 Backend Development
 
-Tools and Technologies:
+Tools and Technologies:-
 
 scikit-learn
 NumPy / Pandas
 Flutter
 REST APIs
+
 What I’m building
 ML-based classification systems (like Breed Sense)
 Data-driven applications
