@@ -7,19 +7,27 @@ I focus on machine learning systems and software that can be applied in practica
 Languages:-
 
 Python
+
 JavaScript
+
 C++
 
 Core Areas:-
 
 Machine Learning
+
 Data Processing
+
 Backend Development
 
 Tools and Technologies:-
 
 scikit-learn
+
 NumPy / Pandas
+
 Flutter
+
 REST APIs
+
 
