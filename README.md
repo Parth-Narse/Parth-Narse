@@ -12,10 +12,6 @@ I focus on machine learning systems and software that can be applied in practica
 
 - Backend Development
 
-## Get in Touch
-I’m always open to discussions and potential collaborations. Feel free to reach out!
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narseparth@gmail.com)
-
 ## Tech Stack 
 
 <p>
@@ -31,5 +27,9 @@ I’m always open to discussions and potential collaborations. Feel free to reac
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narseparth@gmail.com)
 
 
