@@ -6,11 +6,11 @@ I focus on machine learning systems and software that can be applied in practica
 
 ## Core Areas:-
 
--Machine Learning
+- Machine Learning
 
--Data Processing
+- Data Processing
 
--Backend Development
+- Backend Development
 
 ## Tech Stack 
 
